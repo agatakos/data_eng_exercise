@@ -1,5 +1,8 @@
 # Data Engineering Technical Challenge: Retail Data Modeling
 
+### Please note
+Since you have limited insight and no access to stakeholders, you will need to make assumptions and decisions based on this information. Make a note of these, and be ready to articulate them during your interview.
+
 ## 1. About This Exercise
 This technical exercise is intended to assess your ability to **create a dimensional data model** and perform **basic data transformation** to populate that model.
 
@@ -9,7 +12,7 @@ This technical exercise is intended to assess your ability to **create a dimensi
 ---
 
 ## 2. Task Background
-You are a Data Engineer at a retailer that sells electrical appliances. The retailer uses an operational system to track sales.While core entity data is stored in relational tables, transaction data is now being exported as semi-structured objects.
+You are a Data Engineer at a retailer that sells electrical appliances. The retailer uses an operational system to track sales. While core entity data is stored in relational tables, transaction data is now being exported as semi-structured objects.
 
 You have been asked to:
 1. **Design a dimensional data model** (Star Schema) to form the basis of a new data warehouse.
