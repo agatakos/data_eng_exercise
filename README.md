@@ -9,7 +9,7 @@ This technical exercise is intended to assess your ability to **create a dimensi
 ---
 
 ## 2. Task Background
-You are a Data Engineer at a retailer that sells electrical appliances. [cite: 7, 28] The retailer uses an operational system to track sales.While core entity data is stored in relational tables, transaction data is now being exported as semi-structured objects.
+You are a Data Engineer at a retailer that sells electrical appliances. The retailer uses an operational system to track sales.While core entity data is stored in relational tables, transaction data is now being exported as semi-structured objects.
 
 You have been asked to:
 1. **Design a dimensional data model** (Star Schema) to form the basis of a new data warehouse.
